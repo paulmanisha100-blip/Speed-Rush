@@ -765,7 +765,7 @@ export default function App() {
 
       <footer className="game-footer">
        
-        <span>BUILTED BY MANISHA PAUL</span>
+        <span>MADE BY MANISHA PAUL</span>
       </footer>
     </main>
   );
